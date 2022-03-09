@@ -26,7 +26,7 @@ Purpose of this project to build a set of data reports to provide following answ
 
 ## Images
 
-![Dashboard_1](Images/Dashboard 1.png)
+![Dashboard_1](Images/Dashboard.png)
 
 Tools Used: Tableau Public
 [Tablue Public Link](https://public.tableau.com/app/profile/tamasree.sinha3981/viz/FinancialCimplaintsDashBoard/Dashboard1)
